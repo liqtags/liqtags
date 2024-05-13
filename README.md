@@ -1,3 +1,3 @@
-<img src="https://github-profile-trophy.vercel.app/?username=0xlino&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=liqtags&theme=onedark"/>
 
-![](https://komarev.com/ghpvc/?username=0xlino&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=liqtags&color=blue&style=flat)
