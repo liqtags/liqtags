@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=liqtags&color=blue&style=flat)
 
-- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /> [Secure Send](https://github.com/liqtags/SecureSend) `Anonymous & Secure transactions on EVM networks`                    
-- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> [Binance Service](https://github.com/liqtags/BinanceService) `Monitoring Binance and placing trades based on signals, test mode and real mode.`
-- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> [DexScreenerClient](https://github.com/liqtags/DexScreenerClient) `Cryptocurrency Pair Analysis Tool`
+- [Secure Send](https://github.com/liqtags/SecureSend) `Anonymous & Secure transactions on EVM networks`                    
+- [Binance Service](https://github.com/liqtags/BinanceService) `Monitoring Binance and placing trades based on signals, test mode and real mode.`
+- [DexScreenerClient](https://github.com/liqtags/DexScreenerClient) `Cryptocurrency Pair Analysis Tool`
           
 
 
