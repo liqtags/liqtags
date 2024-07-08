@@ -10,6 +10,13 @@
 - [raydium Watcher](https://github.com/liqtags/raydiumWatcher) `Watch new pools on raydium`
 - [USD Movements](https://github.com/liqtags/USD-Movements) `Tracks large USDT & USDC transfers`
 - [Firebase functions routing controllers](https://github.com/liqtags/firebase-functions-routing-controllers) `Express + Routing-Controllers on Firebase Functions`
+- [Bitcoin overtime](https://github.com/liqtags/bitcoinovertime) `Bitcoin Is Officially the Best Performing Asset of all time, see the data.`
+- [EVM Multi Sender](https://github.com/liqtags/MultiSender) `EVM Multisend Contract`
+- [Crypto rekts](https://github.com/liqtags/crypto-rekts) `Knowledgebase About Crypto Rekts`
+- [EVM Implementation](https://github.com/liqtags/EVM) `My Own Ethereum Virtual Machine Implementation.`
+- [Shamir](https://github.com/liqtags/shamir) `Shamir Secret Sharing implementation in Typescript`
+- [YeetRecovery](https://github.com/liqtags/YeetRecovery) `Recover Airdrop from Compromised Wallet`
+- [Firebase Shopify Session Storage Remix](https://github.com/liqtags/firebase-session-storage-shopify-remix) `Firebase Session Storage For Shopify Remix Apps`
 
 
 
