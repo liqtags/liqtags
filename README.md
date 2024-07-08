@@ -19,7 +19,6 @@
 - [Firebase Shopify Session Storage Remix](https://github.com/liqtags/firebase-session-storage-shopify-remix) `Firebase Session Storage For Shopify Remix Apps`
 - [Serverless Gtasks Template](https://github.com/liqtags/serverless-gtasks-template) `Google Tasks Serverless Starter`
 - [Vanity Addy](https://github.com/liqtags/vanity-addy) `A tool to create a vanity ethereum address like 0x999 or 0x420`
-- 
 
 
 
