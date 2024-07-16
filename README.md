@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=liqtags&color=blue&style=flat)
 
-- [FolderEncryption CLI](https://github.com/liqtags/DexFunnel) `tool designed to encrypt and decrypt directories and files.`
+- [FolderEncryption CLI](https://github.com/liqtags/DexFunnel) `Tool designed to encrypt and decrypt directories and files.`
 - [DexFunnel](https://github.com/liqtags/DexFunnel) `The only crypto API you'll ever need.`
 - [Secure Send](https://github.com/liqtags/SecureSend) `Anonymous & Secure transactions on EVM networks`                    
 - [Binance Service](https://github.com/liqtags/BinanceService) `Monitoring Binance and placing trades based on signals, test mode and real mode.`
