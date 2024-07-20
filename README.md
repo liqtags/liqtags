@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=liqtags&color=blue&style=flat)
 
-- [Proof of work Cryptocurrency](https://github.com/liqtags/blockchain)
+- [Proof of work Cryptocurrency](https://github.com/liqtags/blockchain) `Your own Proof of work Cryptocurrency`
 - [FolderEncryption CLI](https://github.com/liqtags/FolderEncryption) `Tool designed to encrypt and decrypt directories and files.`
 - [DexFunnel](https://github.com/liqtags/DexFunnel) `The only crypto API you'll ever need.`
 - [Secure Send](https://github.com/liqtags/SecureSend) `Anonymous & Secure transactions on EVM networks`                    
