@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Languages">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Languages&repeat=false">
 </div>
 <table align="center">
 <tr>
@@ -33,7 +33,7 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Tech+Stack)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Tech+Stack)](https://git.io/typing-svg&repeat=false">
 </div>
 <table align="center">
 <tr>
@@ -72,7 +72,7 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Blockchain">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Blockchain&repeat=false">
 </div>
 <table align="center">
 <tr>
@@ -80,11 +80,7 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=Blockchain">
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=New+Repos">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=New+Repos&repeat=false">
 
 - [Proof of work Cryptocurrency](https://github.com/liqtags/blockchain) `Your own Proof of work Cryptocurrency`
 - [FolderEncryption CLI](https://github.com/liqtags/FolderEncryption) `Tool designed to encrypt and decrypt directories and files.`
