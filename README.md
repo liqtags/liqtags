@@ -135,6 +135,3 @@
       <img src="https://github-profile-trophy.vercel.app/?username=liqtags&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@liqtags's trophy stats"/>
     </a>
   </div>
-
-
-
