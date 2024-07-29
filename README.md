@@ -82,7 +82,36 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F712&width=190&lines=New+Repos&repeat=false">
 
-
+- [EVMShardedRPC](https://github.com/liqtags/EVMShardedRPC) `Ethereum RPC with sharding support`
+- [LLMContextGenerator](https://github.com/liqtags/LLMContextGenerator) `Scans a repository and generates a unified output of current source files, designed to be used as context for Large Language Models (LLMs).`
+- [liqtags](https://github.com/liqtags/liqtags) `My Github Repo`
+- [TaskQueue](https://github.com/liqtags/TaskQueue) `Asynchronous Task Queue`
+- [Layer2Transactions](https://github.com/liqtags/Layer2Transactions) `Layer 2 transaction class for a Rollup on Bitcoin with EVM compatibility.`
+- [packageStarter](https://github.com/liqtags/packageStarter) `Package starter`
+- [levelDB](https://github.com/liqtags/levelDB) `LevelDB Utils`
+- [blockchain](https://github.com/liqtags/blockchain) `Proof Of Work Cryptocurrency`
+- [DexScreenerClient](https://github.com/liqtags/DexScreenerClient) `Dex goes Brrrrrrr `
+- [FolderEncryption](https://github.com/liqtags/FolderEncryption) `FolderEncryption is a Command Line Interface (CLI) tool designed to encrypt and decrypt directories and files.`
+- [cockpit](https://github.com/liqtags/cockpit) `Starter for Turborepo Based Projects`
+- [eslint-config](https://github.com/liqtags/eslint-config) `My Eslint Config`
+- [jest-presets](https://github.com/liqtags/jest-presets) `My Jest Presets`
+- [typescript-config](https://github.com/liqtags/typescript-config) `My Typescript Config`
+- [DexFunnel](https://github.com/liqtags/DexFunnel) `The only crypto API you'll ever need.`
+- [SecureSend](https://github.com/liqtags/SecureSend) `Anonymous & Secure transactions on EVM networks`
+- [BinanceService](https://github.com/liqtags/BinanceService) `A Binance Service Class for Monitoring data on Binance and placing trades based on signals, test mode and real mode. `
+- [crypto-images](https://github.com/liqtags/crypto-images) `A Crypto Image CDN ~ It goes together with the Crypto API`
+- [raydiumWatcher](https://github.com/liqtags/raydiumWatcher) `Raydium new pairs watcher`
+- [bigstepper](https://github.com/liqtags/bigstepper) `Big Stepper`
+- [telegram-github-notifier](https://github.com/liqtags/telegram-github-notifier) `This action sends a Telegram message to a specified chat based on the GitHub event that triggered the action.`
+- [todo-to-issue-action](https://github.com/liqtags/todo-to-issue-action) `Action that converts TODO comments to GitHub issues on push.`
+- [USD-Movements](https://github.com/liqtags/USD-Movements) `Tracks large USDT & USDC transfers`
+- [firebase-functions-routing-controllers](https://github.com/liqtags/firebase-functions-routing-controllers) `Express + Routing-Controllers on Firebase Functions`
+- [AI-2023](https://github.com/liqtags/AI-2023) `AI In 2023`
+- [datalake](https://github.com/liqtags/datalake) `Datalake for Custom LLM and Knowledge graph`
+- [shopkeeper](https://github.com/liqtags/shopkeeper) `A CLI for managing settings and deployments of Shopify store themes.`
+- [bitcoinovertime](https://github.com/liqtags/bitcoinovertime) `Bitcoin Is Officially the Best Performing Asset of all time, see the data.`
+- [console-marketing](https://github.com/liqtags/console-marketing) `Console Marketing Script for SDK`
+- [MultiSender](https://github.com/liqtags/MultiSender) `Ethereum Multisend Contract / Internal transaction executor / smart contract vault. `
 
 <p align="center">
     <a href="https://github.com/liqtags?tab=repositories">
@@ -106,3 +135,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=liqtags&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@liqtags's trophy stats"/>
     </a>
   </div>
+
+
+
